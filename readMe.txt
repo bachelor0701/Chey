@@ -5,3 +5,4 @@ first use git.
 my boss is so stupid.
 hello GitHub.
 你好。
+Second use git;
